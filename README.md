@@ -55,11 +55,13 @@ P.S. сюда же можно отнести и ****Ronin****.
 
 ## Офис
 
-[Pandoc](https://github.com/jgm/pandoc) - конвертирование документов в другие типы документов. Например **Markdown** в **DOCX** или **PPTX** в **PDF**.
+[Pandoc](https://github.com/jgm/pandoc) - конвертирование документов в другие типы документов. Например, Markdown в DOCX или PPTX в PDF.
 
 [Zettlr](https://github.com/Zettlr/Zettlr) - markdown редактор с поддержкой экспорта в PDF, DOCX, ODT, LaTeX, HTML5, Reveal.js, RTF и т.п. **Требует Pandoc для экспорта!**
 
-[LuckySheet](https://github.com/mengshukeji/Luckysheet) - веб-редактор электронных таблиц.
+[marp CLI](https://github.com/marp-team/marp-cli) - быстрое конвертирование Markdown в HTML5 презентацию, PDF и PPTX.
+
+
 
 [Minder](https://github.com/phase1geo/Minder) - mind map редактор. Вроде должен поддерживать все форматы mind map редакторов. *Стоит использовать только в elementaryOS*
 
