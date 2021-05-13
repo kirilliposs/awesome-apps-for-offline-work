@@ -1,4 +1,4 @@
-# awesome-apps-for-offline-work
+# awesome-unusual-apps
 
 Список моих любимых приложений, работающие в оффлайн режиме.
 
